@@ -12,5 +12,5 @@ setup(
     author='Josh Butkovic',
     author_email='joshbutkovic@gmail.com',
     url='https://github.com/joshbutkovic/sample-py-app',
-    packages=find_packages(exclude=('tests', 'docs', 'dist'))
+    packages=find_packages(exclude=('tests', 'dist'))
 )
