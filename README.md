@@ -1,5 +1,8 @@
-## Sample Python Package
+## Sample Py App
 
-This is a sample Python 3 package strcuture for simple apps.
+This is a sample package strcuture for simple apps.
 
-'python -m myapp' to run main method
+To run main method:
+```
+python -m myapp
+```
