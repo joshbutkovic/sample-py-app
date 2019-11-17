@@ -1,0 +1,3 @@
+*.pyc
+package1/*.pyc
+__pycache__
