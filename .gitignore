@@ -1,3 +1,4 @@
 *.pyc
-package1/*.pyc
+nfl/*.pyc
+cli/*.pyc
 __pycache__

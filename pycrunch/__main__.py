@@ -1,4 +1,4 @@
-from myapp import app
+from pycrunch import app
 
 if __name__ == '__main__':
     app.run()

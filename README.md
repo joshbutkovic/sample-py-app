@@ -1,8 +1,8 @@
-## Sample Py App
+## PyCrunch
 
-This is a sample package strcuture for simple apps.
+A sports stats data scraper
 
-To run main method:
+Run:
 ```
 python -m myapp
 ```
